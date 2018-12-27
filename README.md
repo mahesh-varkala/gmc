@@ -16,3 +16,5 @@
 <img src="https://user-images.githubusercontent.com/41586190/50471840-61379b00-09dc-11e9-957c-1c68c1b69b12.PNG">
 <img src="https://user-images.githubusercontent.com/41586190/50471841-61379b00-09dc-11e9-8044-9177ecb54f96.PNG">
 </kbd>
+
+view src folder for media(.mp4 & .PNG)
