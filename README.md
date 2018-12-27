@@ -10,7 +10,7 @@
 <div></div>
                                                                             
                                                                             
-#Screenshots
+# SCREENSHOTS
 
  <kbd>
 <img src="https://user-images.githubusercontent.com/41586190/50471829-5f6dd780-09dc-11e9-8fa5-5c468d0db214.PNG">
