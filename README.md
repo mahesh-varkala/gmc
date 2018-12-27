@@ -6,9 +6,8 @@
        style="max-width:100% height="480" width="720" hspace="30" border="2"
   >
 </kbd>
-          
-<img src=""
-       style="max-width:100% height="480" width="720" hspace="30" border="2"
+<div></div>  
+<div></div>
  #Screenshots
  
 <img src="https://user-images.githubusercontent.com/41586190/50471829-5f6dd780-09dc-11e9-8fa5-5c468d0db214.PNG">
